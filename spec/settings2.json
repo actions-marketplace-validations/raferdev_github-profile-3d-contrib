@@ -1,7 +1,7 @@
 [
   {
     "type": "normal",
-    "backgroundColor": "#ffffff",
+    "backgroundColor": "#161719",
     "foregroundColor": "#00000f",
     "strongColor": "#111133",
     "weakColor": "gray",
@@ -17,7 +17,7 @@
   {
     "type": "rainbow",
     "fileName": "profile-custom-rainbow.svg",
-    "backgroundColor": "#00000f",
+    "backgroundColor": "#161719",
     "foregroundColor": "#eeeeff",
     "strongColor": "rgb(255,200,55)",
     "weakColor": "#aaaaaa",
