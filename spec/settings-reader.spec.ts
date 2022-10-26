@@ -5,7 +5,7 @@ describe('settings-reader', () => {
         const settings = readSettingJson('./spec/settings.json');
         if ("type" in settings) {
             expect(settings.type).toEqual('normal');
-            expect(settings.backgroundColor).toEqual('#ffffff');
+            expect(settings.backgroundColor).toEqual('#161719');
             expect(settings.foregroundColor).toEqual('#00000f');
         } else {
             throw new Error("invalid value")
